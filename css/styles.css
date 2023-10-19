@@ -396,7 +396,6 @@ a {
 
 .media__title {
     margin-top: 0;
-    color: #fff;
 }
 
 .media__body {
@@ -878,6 +877,10 @@ a {
 
 .showcase .grid {
     justify-items: center;
+}
+
+.showcase .media__title {
+    color: #fff;
 }
 
 .show__list {
